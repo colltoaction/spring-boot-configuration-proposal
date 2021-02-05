@@ -7,3 +7,7 @@ Introduce new semantics to Configuration Properties so that [`proposal.ProposalP
 ```shell
 ./gradlew test
 ```
+
+---
+
+See https://stackoverflow.com/questions/66064382/spring-boot-externalized-configuration-and-protobuf-builders
